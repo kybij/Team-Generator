@@ -67,7 +67,7 @@ function addEngineer() {
     inquirer.prompt([
         {
             type: "input",
-            message: "What is your namge?",
+            message: "What is your name?",
             name: "engineerName"
         },
         {
